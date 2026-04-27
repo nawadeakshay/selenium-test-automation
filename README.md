@@ -120,7 +120,3 @@ Open `reports/report.html` in your browser.
 GitHub: [@nawadeakshay](https://github.com/nawadeakshay)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
