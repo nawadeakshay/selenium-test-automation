@@ -1,4 +1,4 @@
-# 🧪 Web Application Test Automation Framework
+#  Web Application Test Automation Framework
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
